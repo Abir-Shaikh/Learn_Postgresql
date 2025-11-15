@@ -51,4 +51,4 @@ If you find this repository helpful:
 
 Give it a ⭐ to support my work!
 
-Open an issue or PR if you’d like to improve it
+Open an issue or PR if you’d like to improve it...
